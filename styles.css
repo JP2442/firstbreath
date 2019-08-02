@@ -136,11 +136,11 @@ height: 400px;
 
 .organizations{
   display: flex;
-3  flex-direction: row;
+  flex-direction: row;
+  justify-content: space-between;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
-  space-between: 5px;
 }
 
 .charities{
