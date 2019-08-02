@@ -78,7 +78,6 @@ z-index: -10;
 }
 
 .title2{
-  font-size: #9966CC;
   color:
   text-align: center;
 }
@@ -200,3 +199,18 @@ height: 400px;
   display:flex;
   justify-content: center;
 }
+ .p{
+   color: black;
+ }
+
+ .k{
+   color: black;
+ }
+
+ .o{
+   color: black;
+ }
+
+ .c{
+   color: black;
+ }
