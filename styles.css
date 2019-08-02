@@ -118,9 +118,9 @@ height: 400px;
   max-width: 50%;
   word-wrap: break-word;
 }
-.parents1{
+/* .parents1{
   color: lightcoral;
-}
+} */
 
 .kids{
   display: flex;
@@ -130,9 +130,9 @@ height: 400px;
   word-wrap: break-word;
 
 }
-.kids1{
+/* .kids1{
   color: lightcoral;
-}
+} */
 
 .organizations{
   display: flex;
@@ -153,7 +153,6 @@ height: 400px;
 
 .about{
   background-color: peachpuff;
-
 }
 
 .title3{
@@ -227,6 +226,6 @@ height: 400px;
    color: black;
  }
 
-.insight{
-  color:
+/* .insight{
+  color: */
 }
