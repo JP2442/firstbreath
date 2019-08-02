@@ -140,6 +140,7 @@ height: 400px;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
+  space-between: 5px;
 }
 
 .charities{
