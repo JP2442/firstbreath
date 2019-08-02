@@ -118,6 +118,9 @@ height: 400px;
   max-width: 50%;
   word-wrap: break-word;
 }
+.parents1{
+  color: lightcoral;
+}
 
 .kids{
   display: flex;
@@ -125,11 +128,16 @@ height: 400px;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
+
+}
+.kids1{
+  color: lightcoral;
 }
 
 .organizations{
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  flex-direction: row;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
@@ -152,7 +160,10 @@ height: 400px;
   font-size: ;
   color: #B86B77 ;
 }
+.figure{
+  color: lightblue;
 
+}
 .jordan{
   align-content: space-around;
   margin: 10px;
@@ -184,6 +195,7 @@ height: 400px;
 
 .todo{
   text-align: center;
+  color: blue;
 }
 
 .list{
@@ -214,3 +226,7 @@ height: 400px;
  .c{
    color: black;
  }
+
+.insight{
+  color:
+}
