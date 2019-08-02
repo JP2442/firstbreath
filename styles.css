@@ -113,7 +113,7 @@ height: 400px;
 
 .parents{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
@@ -124,7 +124,7 @@ height: 400px;
 
 .kids{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
@@ -136,7 +136,7 @@ height: 400px;
 
 .organizations{
   display: flex;
-3  flex-direction: column;
+3  flex-direction: row;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
@@ -144,7 +144,7 @@ height: 400px;
 
 .charities{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
