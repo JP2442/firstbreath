@@ -137,7 +137,7 @@ height: 400px;
 .organizations{
   display: flex;
   flex-wrap: wrap;
-  flex-direction: row;
+  flex-direction: column;
   padding: 5px;
   max-width: 50%;
   word-wrap: break-word;
